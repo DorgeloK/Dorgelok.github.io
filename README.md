@@ -1,4 +1,5 @@
-# My Portfolio 'rgb(9, 105, 218)'
+rgb(9, 105, 218)
+# My Portfolio
 ## My Non-Technical Interests
 - Hiking
 - Traveling
