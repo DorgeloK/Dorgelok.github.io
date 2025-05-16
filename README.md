@@ -1,4 +1,4 @@
-# My Portfolio
+# My Portfolio 'rgb(9, 105, 218)'
 ## My Non-Technical Interests
 - Hiking
 - Traveling
