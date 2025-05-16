@@ -1,4 +1,4 @@
-<span style="color=blue"> # My Portfolio
+# <span style="color=blue;"> My Portfolio
 ## My Non-Technical Interests
 - Hiking
 - Traveling
