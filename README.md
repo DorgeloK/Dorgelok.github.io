@@ -1,5 +1,4 @@
-rgb(9, 105, 218)
-# My Portfolio
+<span style="color=blue"> # My Portfolio
 ## My Non-Technical Interests
 - Hiking
 - Traveling
